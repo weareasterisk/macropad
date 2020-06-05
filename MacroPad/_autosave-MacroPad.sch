@@ -741,21 +741,21 @@ F 3 "" H 4550 4200 50  0001 C CNN
 	1    4550 4200
 	1    0    0    -1  
 $EndComp
-Text GLabel 2800 4200 2    50   Input ~ 0
+Text GLabel 2800 1300 2    50   Input ~ 0
 REA
 Text GLabel 2800 1400 2    50   Input ~ 0
 REB
-Text GLabel 2800 1500 2    50   Input ~ 0
+Text GLabel 2800 4100 2    50   Input ~ 0
 COL0
-Text GLabel 2800 1600 2    50   Input ~ 0
+Text GLabel 2800 4000 2    50   Input ~ 0
 COL1
-Text GLabel 2800 1700 2    50   Input ~ 0
+Text GLabel 2800 3900 2    50   Input ~ 0
 COL2
-Text GLabel 2800 1800 2    50   Input ~ 0
+Text GLabel 2800 3800 2    50   Input ~ 0
 COL3
-Text GLabel 2800 1900 2    50   Input ~ 0
+Text GLabel 2800 3700 2    50   Input ~ 0
 COL4
-Text GLabel 2800 2000 2    50   Input ~ 0
+Text GLabel 2800 4200 2    50   Input ~ 0
 ROW0
 Wire Wire Line
 	2300 1000 2200 1000
